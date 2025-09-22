@@ -1,0 +1,10 @@
+{
+  "base_url": "https://your-api.com",
+  "endpoints": {
+    "category": "/api/category",
+    "subcategory": "/api/subcategory",
+    "data": "/api/data"
+  },
+  "contact_url": "https://your-website.com/contact",
+  "privacy_policy_url": "https://your-website.com/privacy-policy"
+}
