@@ -1,10 +1,19 @@
 {
   "base_url": "https://test.jakchhnout.com",
   "endpoints": {
-    "category": "/api/lottery-list",
-    "subcategory": "/api/lottery-time-list/", //category id
-    "data": "/api/lottery-result-list/" //subcategory id
+    "category":  {
+      "url": "/api/lottery-list",
+      "note": "Get all the category"
+    },
+    "subcategory": {
+      "url": "/api/lottery-time-list/",
+      "note": "Pass category ID (/api/lottery-time-list/1)"
+    },
+    "data": {
+      "url": "/api/lottery-result-list/",
+      "note": "Pass subcategory ID (/api/lottery-result-list/1)"
+    }
   },
   "contact_url": "https://t.me/+855968509332",
-  "privacy_policy_url": "https://raw.githubusercontent.com/sushilgpt09/config-api/refs/heads/main/privacy-policy.md"
+  "privacy_policy_url": "https://raw.githubusercontent.com/sushilgpt09/config-api/main/privacy-policy.md"
 }
