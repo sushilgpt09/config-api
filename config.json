@@ -1,5 +1,5 @@
 {
-  "base_url": "https://your-api.com",
+  "base_url": "aaaahttps://your-api.com",
   "endpoints": {
     "category": "/api/category",
     "subcategory": "/api/subcategory",
