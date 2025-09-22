@@ -1,10 +1,10 @@
 {
-  "base_url": "https://your-api.com",
+  "base_url": "https://test.jakchhnout.com",
   "endpoints": {
-    "category": "/api/category",
-    "subcategory": "/api/subcategory",
-    "data": "/api/data"
+    "category": "/api/lottery-list",
+    "subcategory": "/api/lottery-time-list/", //category id
+    "data": "/api/lottery-result-list/" //subcategory id
   },
-  "contact_url": "https://your-website.com/contact",
-  "privacy_policy_url": "https://your-website.com/privacy-policy"
+  "contact_url": "https://t.me/+855968509332",
+  "privacy_policy_url": "https://raw.githubusercontent.com/sushilgpt09/config-api/refs/heads/main/privacy-policy.md"
 }
