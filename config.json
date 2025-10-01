@@ -15,6 +15,7 @@
       "note": "Pass subcategory ID (/api/lottery-result-list/1)"
     }
   },
+  "reveal_time": 2,
   "time_zone": "Asia/Phnom_Penh",
   "force_update_version": true,
   "contact_url": "https://t.me/+855968509332",
