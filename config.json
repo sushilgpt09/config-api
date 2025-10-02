@@ -32,13 +32,13 @@
   "privacy_policy":  {
       "lebel": "Privacy Policy",
       "url": "https://raw.githubusercontent.com/sushilgpt09/config-api/main/privacy-policy.md",
-      "note": "Right side on the header"
+      "note": "Right side on the header (Open Web view)"
   },
   "footer":  {
       "status": true,
       "lebel": "Home",
       "url": "https://test.jakchhnout.com",
-      "note": "Need to show One button Center in the footer if status is true"
+      "note": "Need to show One button Center in the footer if status is true (Redirect to browser)"
   }
   
   "contact_url": "https://t.me/+855968509332",
