@@ -19,6 +19,28 @@
   "time_zone": "Asia/Phnom_Penh",
   "socket_url": "wss://wss-test.jakchhnout.com",
   "force_update_version": true,
+
+  "contact_us":  {
+      "lebel": "Contact us",
+      "url": "https://t.me/+855968509332",
+      "note": "Left side on the header"
+  },
+  "title":  {
+      "lebel": "Results",
+      "note": "Center on the header"
+  },
+  "privacy_policy":  {
+      "lebel": "Privacy Policy",
+      "url": "https://raw.githubusercontent.com/sushilgpt09/config-api/main/privacy-policy.md",
+      "note": "Right side on the header"
+  },
+  "footer":  {
+      "status": true,
+      "lebel": "Home",
+      "url": "https://test.jakchhnout.com",
+      "note": "Need to show One button Center in the footer if status is true"
+  }
+  
   "contact_url": "https://t.me/+855968509332",
   "privacy_policy_url": "https://raw.githubusercontent.com/sushilgpt09/config-api/main/privacy-policy.md"
 }
