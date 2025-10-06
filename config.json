@@ -27,7 +27,8 @@
     "note": "if is_redirect is true then redirect in browser (Left side on the header)"
   },
   "contact_us": {
-    "label": "https://test.jakchhnout.com/website/img/icons/auto-bet/telegram.png",
+    "label": "Contact us",
+    "icon": "https://test.jakchhnout.com/website/img/icons/auto-bet/telegram.png",
     "url": "https://t.me/+855968509332",
     "note": "Right side on the header and left side on the footer"
   },
