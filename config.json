@@ -42,7 +42,7 @@
     "note": "Right side on the footer (Open Web view)"
   },
   "footer": {
-    "status": false,
+    "status": true,
     "is_webview": false,
     "label": "Home",
     "url": "https://test.jakchhnout.com",
