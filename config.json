@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "base_url": "https://test.jakchhnout.com",
+  "base_url": "https://jakchhnout.com",
   "endpoints": {
     "category": {
       "url": "/api/lottery-list",
@@ -17,23 +17,23 @@
   },
   "reveal_time": 2,
   "time_zone": "Asia/Phnom_Penh",
-  "socket_url": "wss://wss-test.jakchhnout.com",
+  "socket_url": "wss://wss.jakchhnout.com",
   "is_force_update": true,
 
   "logo": {
-    "logo": "https://test.jakchhnout.com/website/img/international-lottery/small-logo.png",
-    "link": "https://test.jakchhnout.com",
+    "logo": "https://jakchhnout.com/website/img/international-lottery/small-logo.png",
+    "link": "https://jakchhnout.com",
     "is_redirect": true,
     "note": "if is_redirect is true then redirect in browser (Left side on the header)"
   },
   "contact_us": {
     "label": "Contact us",
-    "icon": "https://test.jakchhnout.com/website/img/icons/auto-bet/telegram.png",
+    "icon": "https://jakchhnout.com/website/img/icons/auto-bet/telegram.png",
     "url": "https://t.me/+855968509332",
     "note": "Right side on the header and left side on the footer"
   },
   "title": {
-    "label": "Live Results",
+    "label": "លត្ថផលឆ្នោត",
     "note": "Center on the header"
   },
   "privacy_policy": {
@@ -42,8 +42,8 @@
     "note": "Right side on the footer (Open Web view)"
   },
   "footer": {
-    "status": true,
-    "is_webview": true,
+    "status": false,
+    "is_webview": false,
     "label": "Home",
     "url": "https://test.jakchhnout.com",
     "note": "Need to show a card with button in center on footer if status is true (if is_webview is true then open in webview else redirect to browser)"
