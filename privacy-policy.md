@@ -1,9 +1,7 @@
-# Privacy Policy for APPNAME
-
 **Effective Date:** September 22, 2025  
 **Last Updated:** September 22, 2025
 
-Thank you for using **[Your App Name]** (the "App"). We value your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your personal information.
+Thank you for using **Jakchhnout** (the "App"). We value your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and your rights regarding your personal information.
 
 ---
 
@@ -65,4 +63,4 @@ We recommend reviewing this page periodically for any changes.
 
 ---
 
-**© 2025 APPNAME. All rights reserved.**
+**© 2025 Jakchhnout. All rights reserved.**
