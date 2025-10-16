@@ -23,8 +23,8 @@
   "logo": {
     "logo": "https://jakchhnout.com/website/img/international-lottery/small-logo.png",
     "link": "https://jakchhnout.com",
-    "is_redirect": true,
-    "is_webview": true,
+    "is_redirect": false,
+    "is_webview": false,
     "note": "if is_redirect is true then redirect in browser (Left side on the header)"
   },
   "contact_us": {
