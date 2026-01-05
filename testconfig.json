@@ -48,5 +48,10 @@
     "label": "Home",
     "url": "https://api.implogix.com",
     "note": "Need to show a card with button in center on footer if status is true (if is_webview is true then open in webview else redirect to browser)"
+  },
+  "native_app": {
+    "app_name": "Jakchhnout",
+    "app_logo": "https://api.implogix.com/website/img/international-lottery/small-logo.png",
+    "base_url": "https://api.implogix.com/api/v1"
   }
 }
