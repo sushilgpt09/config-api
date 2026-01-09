@@ -17,7 +17,7 @@
   },
   "reveal_time": 2,
   "time_zone": "Asia/Phnom_Penh",
-  "socket_url": "wss://wss.api.implogix.com",
+  "socket_url": "wss://wss.implogix.com",
   "is_force_update": true,
 
   "logo": {
