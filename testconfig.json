@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "app_store_url": "https://apps.apple.com/kh/app/jakchhnout/id6754282748",
   "play_store_url": "https://play.google.com/store/apps/details?id=com.jakchhnout.jakchhnout",
-  "health_check": "https://jakchhnout.com/api/health",
+  "health_check": "https://api.implogix.com/api/health",
   "base_url": "https://api.implogix.com",
   "endpoints": {
     "category": {
