@@ -1,1 +1,60 @@
+{
+  "version": "1.0.0",
+  "app_store_url": "https://apps.apple.com/kh/app/jakchhnout/id6754282748",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.jakchhnout.jakchhnout",
+  "health_check": "https://worldgame24.com/api/health",
+  "base_url": "https://worldgame24.com",
+  "endpoints": {
+    "category": {
+      "url": "/api/lottery-list",
+      "note": "Get all the category"
+    },
+    "subcategory": {
+      "url": "/api/lottery-time-list/",
+      "note": "Pass category ID (/api/lottery-time-list/1)"
+    },
+    "data": {
+      "url": "/api/lottery-result-list/",
+      "note": "Pass subcategory ID (/api/lottery-result-list/1)"
+    }
+  },
+  "reveal_time": 2,
+  "time_zone": "Asia/Phnom_Penh",
+  "socket_url": "wss://wss.worldgame24.com",
+  "is_force_update": true,
 
+  "logo": {
+    "logo": "https://worldgame24.com/website/img/international-lottery/native-logo.png",
+    "link": "https://worldgame24.com",
+    "is_redirect": false,
+    "is_webview": false,
+    "note": "if is_redirect is true then redirect in browser (Left side on the header)"
+  },
+  "contact_us": {
+    "label": "Contact us",
+    "icon": "https://worldgame24.com/website/img/icons/auto-bet/telegram.png",
+    "url": "https://t.me/+855889745825",
+    "note": "Right side on the header and left side on the footer"
+  },
+  "title": {
+    "label": "លត្ថផលឆ្នោត",
+    "note": "Center on the header"
+  },
+  "privacy_policy": {
+    "label": "Privacy Policy",
+    "url": "https://sushilgpt09.github.io/config-api/privacy-policy",
+    "note": "Right side on the footer (Open Web view)"
+  },
+  "footer": {
+    "status": false,
+    "is_webview": false,
+    "label": "Home",
+    "url": "https://worldgame24.com",
+    "note": "Need to show a card with button in center on footer if status is true (if is_webview is true then open in webview else redirect to browser)"
+  },
+  "native_app": {
+    "app_name": "Jakchhnout",
+    "app_logo": "https://worldgame24.com/website/img/international-lottery/small-logo.png",
+    "base_url": "https://worldgame24.com/api/v1"
+  }
+}
