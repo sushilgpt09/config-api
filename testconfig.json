@@ -2,8 +2,8 @@
   "version": "1.0.0",
   "app_store_url": "https://apps.apple.com/kh/app/jakchhnout/id6754282748",
   "play_store_url": "https://play.google.com/store/apps/details?id=com.jakchhnout.jakchhnout",
-  "health_check": "https://api.implogix.com/api/health",
-  "base_url": "https://api.implogix.com",
+  "health_check": "https://jakchhnout-api-xhygyd.laravel.cloud/api/health",
+  "base_url": "https://jakchhnout-api-xhygyd.laravel.cloud",
   "endpoints": {
     "category": {
       "url": "/api/lottery-list",
@@ -20,19 +20,19 @@
   },
   "reveal_time": 2,
   "time_zone": "Asia/Phnom_Penh",
-  "socket_url": "wss://wss.implogix.com",
+  "socket_url": "wss://ws-a1025bfd-aa6b-43b8-9296-cb924430e1b8-reverb.laravel.cloud/app/w09wOBSERxKfhZ6EeVzQ?protocol=7&client=flutter&version=8.4.0&flash=false",
   "is_force_update": true,
 
   "logo": {
-    "logo": "https://api.implogix.com/website/img/international-lottery/native-logo.png",
-    "link": "https://api.implogix.com",
+    "logo": "https://jakchhnout-api-xhygyd.laravel.cloud/website/img/international-lottery/native-logo.png",
+    "link": "https://jakchhnout-api-xhygyd.laravel.cloud",
     "is_redirect": false,
     "is_webview": false,
     "note": "if is_redirect is true then redirect in browser (Left side on the header)"
   },
   "contact_us": {
     "label": "Contact us",
-    "icon": "https://api.implogix.com/website/img/icons/auto-bet/telegram.png",
+    "icon": "https://jakchhnout-api-xhygyd.laravel.cloud/website/img/icons/auto-bet/telegram.png",
     "url": "https://t.me/+855889745825",
     "note": "Right side on the header and left side on the footer"
   },
@@ -49,12 +49,12 @@
     "status": false,
     "is_webview": false,
     "label": "Home",
-    "url": "https://api.implogix.com",
+    "url": "https://jakchhnout-api-xhygyd.laravel.cloud",
     "note": "Need to show a card with button in center on footer if status is true (if is_webview is true then open in webview else redirect to browser)"
   },
   "native_app": {
     "app_name": "Jakchhnout",
-    "app_logo": "https://api.implogix.com/website/img/international-lottery/small-logo.png",
-    "base_url": "https://api.implogix.com/api/v1"
+    "app_logo": "https://jakchhnout-api-xhygyd.laravel.cloud/website/img/international-lottery/small-logo.png",
+    "base_url": "https://jakchhnout-api-xhygyd.laravel.cloud/api/v1"
   }
 }
