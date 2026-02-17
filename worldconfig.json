@@ -16,7 +16,8 @@
     "data": {
       "url": "/api/world-lottery/lottery-result-list/",
       "note": "Pass subcategory ID (/api/lottery-result-list/1)"
-    }
+    },
+    'config_api': '/api/world-lottery/config-data'
   },
   "reveal_time": 2,
   "time_zone": "Asia/Phnom_Penh",
