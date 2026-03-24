@@ -63,4 +63,4 @@ We recommend reviewing this page periodically for any changes.
 
 ---
 
-**© 2025 WorldLottery. All rights reserved.**
+**© 2026 WorldLottery. All rights reserved.**
