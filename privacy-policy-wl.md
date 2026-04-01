@@ -56,7 +56,7 @@ This app does not knowingly collect data from children under the age of 13. If y
 
 If you have any questions or concerns regarding this Privacy Policy, feel free to contact us:
 
-📧 **Email:** support@worldlottery24.com
+📧 **Email:** sushilgpt09@gmail.com
 
 ---
 
