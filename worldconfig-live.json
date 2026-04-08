@@ -21,7 +21,7 @@
   },
   "reveal_time": 2,
   "time_zone": "Asia/Phnom_Penh",
-  "socket_url": "wss://wss.implogix.com/app/local-key?protocol=7&client=flutter&version=8.4.0&flash=false",
+  "socket_url": "wss://wss.worldgame24.com/app/local-key?protocol=7&client=flutter&version=8.4.0&flash=false",
   "is_force_update": true,
 
   "logo": {
