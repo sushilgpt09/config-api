@@ -27,7 +27,7 @@
   "logo": {
     "logo": "https://worldgame24.com/website/img/international-lottery/world-lottery-native.png",
     "link": "https://worldgame24.com",
-    "is_redirect": false,
+    "is_redirect": true,
     "is_webview": false,
     "note": "if is_redirect is true then redirect in browser (Left side on the header)"
   },
