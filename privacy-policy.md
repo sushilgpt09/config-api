@@ -43,7 +43,7 @@ We recommend reviewing the privacy policies of any third-party services used in 
 
 If you have any questions or concerns regarding this Privacy Policy, feel free to contact us:
 
-📮 Contact us on Telegram: [https://t.me/+855968509332](https://t.me/+855968509332)
+📮 Contact us on Telegram: [https://t.me/+855889745825](https://t.me/+855889745825)
 
 ---
 
