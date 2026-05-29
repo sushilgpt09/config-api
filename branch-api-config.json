@@ -4,9 +4,9 @@
   },
   "secondary_base_url": {
     "base_url": "https://worldgame24.com/api",
-      "reveal_time": 2,
-      "time_zone": "Asia/Phnom_Penh",
-      "socket_url": "wss://wss.worldgame24.com/app/local-key?protocol=7&client=js&version=8.4.0&flash=false",
+    "reveal_time": 2,
+    "time_zone": "Asia/Phnom_Penh",
+    "socket_url": "wss://wss.worldgame24.com/app/local-key?protocol=7&client=js&version=8.4.0&flash=false"
   },
   "contact_us": {
     "url": "https://t.me/accOpen222"
