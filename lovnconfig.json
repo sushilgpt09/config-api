@@ -6,18 +6,18 @@
   "base_url": "https://worldgame24.com",
   "endpoints": {
     "category": {
-      "url": "/api/world-lottery/lottery-list",
+      "url": "/api/lovn-lottery/lottery-list",
       "note": "Get all the category"
     },
     "subcategory": {
-      "url": "/api/world-lottery/lottery-time-list/",
+      "url": "/api/lovn-lottery/lottery-time-list/",
       "note": "Pass category ID (/api/lottery-time-list/1)"
     },
     "data": {
-      "url": "/api/world-lottery/lottery-result-list/",
+      "url": "/api/lovn-lottery/lottery-result-list/",
       "note": "Pass subcategory ID (/api/lottery-result-list/1)"
     },
-    "config_api": "/api/world-lottery/config-data"
+    "config_api": "/api/lovn-lottery/config-data"
   },
   "reveal_time": 2,
   "time_zone": "Asia/Phnom_Penh",
