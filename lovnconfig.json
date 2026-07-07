@@ -10,5 +10,6 @@
   "socket_url": "wss://ws-ap1.pusher.com/app/3f40aa350b27cd55109e?protocol=7&client=js&version=8.4.0&flash=false",
   "logo": "https://app.singapore-ltr.com/website/img/international-lottery/world-lottery-native.png",
   "contact_us":  "https://t.me/+855889745825",
-  "privacy_policy": "https://sushilgpt09.github.io/config-api/privacy-policy-wl"
+  "privacy_policy": "https://sushilgpt09.github.io/config-api/privacy-policy-wl",
+  "is_live": false
 }
