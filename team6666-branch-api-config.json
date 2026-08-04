@@ -1,0 +1,14 @@
+{
+  "main_base_url": {
+    "base_url": "https://team6666.com/api/v1"
+  },
+  "secondary_base_url": {
+    "base_url": "https://app.singapore-ltr.com/api",
+    "reveal_time": 2,
+    "time_zone": "Asia/Phnom_Penh",
+    "socket_url": "wss://ws-ap1.pusher.com/app/3f40aa350b27cd55109e?protocol=7&client=js&version=8.4.0&flash=false"
+  },
+  "contact_us": {
+    "url": "https://t.me/accOpen222"
+  }
+}
