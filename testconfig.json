@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.4",
   "app_store_url": "https://apps.apple.com/kh/app/jakchhnout/id6754282748",
   "play_store_url": "https://play.google.com/store/apps/details?id=com.jakchhnout.jakchhnout",
-  "health_check": "https://godating.asia/api/health",
-  "base_url": "https://godating.asia",
+  "health_check": "https://test.singapore-ltr.com/api/health",
+  "base_url": "https://test.singapore-ltr.com",
   "telegram_bot": "https://t.me/Jakchhnout_admin_bot?start=",
   "endpoints": {
     "category": {
@@ -21,24 +21,24 @@
   },
   "reveal_time": 2,
   "time_zone": "Asia/Phnom_Penh",
-  "socket_url": "wss://wss.worldgame24.com/app/w09wOBSERxKfhZ6EeVzQ?protocol=7&client=flutter&version=8.4.0&flash=false",
+  "socket_url": "wss://ws-ap1.pusher.com/app/3f40aa350b27cd55109e?protocol=7&client=js&version=8.4.0&flash=false",
   "is_force_update": true,
 
   "logo": {
-    "logo": "https://godating.asia/website/img/international-lottery/native-logo.png",
-    "link": "https://godating.asia",
+    "logo": "https://test.singapore-ltr.com/website/img/international-lottery/native-logo.png",
+    "link": "https://test.singapore-ltr.com",
     "is_redirect": false,
     "is_webview": false,
     "note": "if is_redirect is true then redirect in browser (Left side on the header)"
   },
   "contact_us": {
     "label": "Contact us",
-    "icon": "https://godating.asia/website/img/icons/auto-bet/telegram.png",
-    "url": "https://t.me/+855889745825",
+    "icon": "https://test.singapore-ltr.com/website/img/icons/auto-bet/telegram.png",
+    "url": "https://t.me/accOpen222",
     "note": "Right side on the header and left side on the footer"
   },
   "title": {
-    "label": "លត្ថផលឆ្នោត",
+    "label": "                           បើកអាខោនចាក់    👉",
     "note": "Center on the header"
   },
   "privacy_policy": {
@@ -50,12 +50,12 @@
     "status": false,
     "is_webview": false,
     "label": "Home",
-    "url": "https://godating.asia",
+    "url": "https://test.singapore-ltr.com",
     "note": "Need to show a card with button in center on footer if status is true (if is_webview is true then open in webview else redirect to browser)"
   },
   "native_app": {
     "app_name": "Jakchhnout",
-    "app_logo": "https://godating.asia/website/img/international-lottery/small-logo.png",
-    "base_url": "https://godating.asia/api/v1"
+    "app_logo": "https://test.singapore-ltr.com/website/img/international-lottery/small-logo.png",
+    "base_url": "https://test.singapore-ltr.com/api/v1"
   }
 }
