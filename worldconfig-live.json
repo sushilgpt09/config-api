@@ -27,7 +27,7 @@
   "logo": {
     "logo": "https://app.singapore-ltr.com/website/img/international-lottery/world-lottery-native.png",
     "link": "https://app.singapore-ltr.com",
-    "is_redirect": true,
+    "is_redirect": false,
     "is_webview": true,
     "note": "if is_redirect is true then redirect in browser (Left side on the header)"
   },
